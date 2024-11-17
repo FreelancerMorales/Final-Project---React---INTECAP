@@ -16,7 +16,7 @@ const Layout = () => {
 
       <footer className="bg-dark text-center py-3 mt-auto border-top">
         <Container>
-          <p className="mb-0">© 2024 CircuitoSapiens - Todos los derechos reservados</p>
+          <p className="mb-0">© 2024 FitnessApp - Todos los derechos reservados</p>
         </Container>
       </footer>
       <BtnInicio></BtnInicio>
